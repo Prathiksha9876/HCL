@@ -1,3 +1,3 @@
-HCL Training Project
+Hotel Room Booking & Front-Desk System
 
-This folder contains the project work completed as part of the HCL training program.
+Day 1 – Requirements and User Stories
