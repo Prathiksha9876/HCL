@@ -1,14 +1,14 @@
-# Day 04 – Classes, Objects, and Packages
+ Day 04 – Classes, Objects, and Packages
 
-## Overview
+ Overview
 Practises organizing Java code into classes and packages.
 
-## Concepts Practiced
+ Concepts Practiced
 - Classes and objects
 - Separating application, model, and service responsibilities
 - Java package structure
 
-## Structure
+ Structure
 ```text
 Day-04/
 └── src/main/java/
@@ -17,14 +17,14 @@ Day-04/
     └── service/
 ```
 
-## Build
+ Build
 If this directory contains a `pom.xml`, run:
 ```powershell
 mvn clean package
 ```
 
-## Notes
+ Notes
 The `target/` directory is generated build output and should normally be excluded from version control.
 
-## Status
+ Status
 Class and package organization practised.
